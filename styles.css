@@ -1,0 +1,54 @@
+.nav-link{
+    color: #333446;
+}
+.nav-link:hover {
+    color: #84934A;
+}
+body {
+    background-color: #EAEFEF;
+}
+.nav-pills {
+    --bs-nav-pills-border-radius: var(--bs-border-radius);
+    --bs-nav-pills-link-active-color: #fff;
+    --bs-nav-pills-link-active-bg: #333446;
+}
+.btn-primary {
+    color: white;
+    background-color: #333446;
+    border-color: #333446;
+}
+.btn-primary:hover {
+    background-color: #B8CFCE;
+    border-color: #B8CFCE;
+    color: #EAEFEF;
+}
+.btn-outline-secondary {
+    border-color: #7F8CAA;
+    color: #7F8CAA;
+}
+.btn-outline-secondary:hover {
+    background-color: #B8CFCE;
+    border-color: #B8CFCE;
+    color: #EAEFEF;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+
+}
+.text-bg-primary
+ {
+    background-color: #B8CFCE !important;
+}
+.ProjectName {
+    font-weight: bold;
+    font-size: calc(1.275rem + .3vw);
+    letter-spacing: -1px;
+}
+.ProjectName:hover {
+    color: #84934A;
+}
+
+
+
