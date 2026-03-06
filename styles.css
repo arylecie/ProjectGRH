@@ -27,7 +27,7 @@ body {
 .btn-primary:hover {
     background-color: #B8CFCE;
     border-color: #B8CFCE;
-    color: #EAEFEF;
+    color: #333446;
 }
 .btn-primary:active {
     background-color: #84934A !important;
@@ -64,6 +64,7 @@ body {
 .ProjectName:hover {
     color: #84934A;
 }
+
 
 
 
