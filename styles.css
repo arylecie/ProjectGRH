@@ -64,6 +64,14 @@ body {
 .ProjectName:hover {
     color: #84934A;
 }
+.text-bg-dark {
+    color: #fff !important;
+    background-color:  #EAEFEF!important;
+}
+.pt-5 {
+    padding-top: 3rem !important;
+    color: #333446;
+}
 
 
 
