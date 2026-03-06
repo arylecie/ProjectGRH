@@ -1,15 +1,13 @@
 .nav-link{
     color: #333446;
 }
-.nav-link:hover {
+.nav-item.nav-link:hover {
     color: #84934A;
 }
-.nav-link:active {
+.nav-item.nav-link:active {
     color: #84934A!important;
 }
-.nav-link:visited {
-    color: #84934A!important;
-}
+
 
 body {
     background-color: #EAEFEF;
